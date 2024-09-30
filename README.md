@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SujoyRB29
+- 👋 Hi, I’m @Sujoy Raj Bongshi
 - 👀 I’m interested in Something new invention
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on social project
